@@ -1,0 +1,6 @@
+query GetTodo{
+    getTodo{
+    id
+    title
+  }
+}
